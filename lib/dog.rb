@@ -87,5 +87,7 @@ class Dog
     end.first
   end
 
+  def 
+
 
 end
